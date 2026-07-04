@@ -1,0 +1,23 @@
+# Maven / Java
+target/
+*.log
+hs_err_pid*
+replay_pid*
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.env
