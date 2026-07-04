@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: focus-tracker
+app:
+  timer:
+    defaultMinutes: 25
