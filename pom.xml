@@ -11,7 +11,7 @@
     <relativePath/>
   </parent>
 
-  <groupId>com.yourname.focus</groupId>
+  <groupId>com.namlessprogramm.focustracker</groupId>
   <artifactId>focus-tracker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>FocusTracker</name>
