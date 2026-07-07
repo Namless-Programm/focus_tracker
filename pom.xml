@@ -18,7 +18,7 @@
   <description>Focus Tracker - Tasks, Timer, Sessions</description>
 
   <properties>
-    <java.version>26</java.version>
+    <java.version>25.0.3</java.version>
   </properties>
 
   <dependencies>
@@ -36,7 +36,7 @@
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
-      <optional>true</optional>
+      <version>1.18.38</version>
     </dependency>
 
     <!-- Test -->
